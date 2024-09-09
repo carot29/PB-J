@@ -1,0 +1,15 @@
+/* center width fixed bodyy */
+html {
+  background-color: black;
+}
+body {
+  background-color: #faae44b9;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+img {
+  display: block;
+  width: 500px;
+}
